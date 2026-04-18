@@ -25,12 +25,12 @@ targetPlatforms:
   - compiler from: delphixe2
     compiler to: delphixe8
     platforms: [ win32, win64 ]
-  - compiler from: delphi10.1
+  - compiler from: delphi10.0
     compiler to: delphi10.4
     platforms: [ win32, win64 ]
     variables:
       packageSource: "Rad Studio $compilernoprefix$ $compilerCodeName$"
-  - compilers: [ delphi10, delphi11 ]
+  - compilers: [ delphi11 ]
     platforms: [ win32, win64 ]
     variables:
       packageSource: "Rad Studio $compilernoprefix$.0 $compilerCodeName$"
