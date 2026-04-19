@@ -14,7 +14,7 @@ metadata:
   copyright: Vincent Parrett and contributors
   tags: [ cancellation, async, threads ]
   version: 0.1.4
-  repositoryCommit: Id:0db6a30a8d7d251fa1246b5a9008b2f5ffb4380c
+  repositoryCommit: #HASH#
 
 # define variable defaults - can be overriden in targetPlatforms
 variables:
